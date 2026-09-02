@@ -17,4 +17,4 @@ E' -> + i E' | λ (lambda)
 
 ## Exemplos de Teste
 - **Caminhos de Sucesso:** `i$`, `i+i$`, `i+i+i$`, `i+i+i+i$`
-- **Caminhods de Erro (Falha sintática):** `+$`, `ii$`, `i++i$`, `i+i`
+- **Caminhos de Erro (Falha sintática):** `+$`, `ii$`, `i++i$`, `i+i`
